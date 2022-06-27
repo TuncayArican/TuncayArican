@@ -1,15 +1,13 @@
 # TuncayArican
 
-## Hi there. I'm Mehmet...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there. I'm Tuncay...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - :house: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- This is <a href="https://mhmtclk1705.github.io/MyPortfolio/" target="_blank">My Portfolio Website</a>
+
 
 
 ## :man::woman: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetcelik-/)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@mehmetcelik1705)
-[![website](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MJohnSteel)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mehmetcelik1705@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuncay-arican/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:tuncayarican07@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtclk1705" alt="mhmtclk1705" /> </p>
 
 ## 💻 Tech Stack
@@ -30,24 +28,13 @@
 ## :star2: My Projects: 
 ## With React
 
-
-- <a href="https://mehmetcelik-fire-blog-app.netlify.app/" target="_blank" >Fire-Blog-App</a>
-- <a href="https://mehmetcelik-redux-thunk-user-project.netlify.app/" target="_blank" >Redux-Thunk-User</a>
-- <a href="https://mehmetcelik-router-cw-website.netlify.app/" target="_blank" >Clarusway-Website-with-Router</a>
-- <a href="https://mehmetcelik-redux-todo-app.netlify.app/" target="_blank" >Redux-Todo-App-Project</a>
-- <a href="https://mehmetcelik-redux-counter-app.netlify.app/" target="_blank" >Basic-Redux-Counter-App</a>
-- <a href="https://mehmetcelik-movie-app-firebase.herokuapp.com/" target="_blank" >Firebase-Movie-App</a>
-- <a href="https://mehmetcelik-random-user-2.netlify.app/" target="_blank" >Random-User-2</a>
-- <a href="https://mehmetcelik-recipe-app.netlify.app/" target="_blank" >Recipe-App-Project</a>
-- <a href="https://mehmetcelik-menu-project.netlify.app/" target="_blank" >Menu-Project</a>
-- <a href="https://mehmetcelik-accordion-project.netlify.app/" target="_blank" >Accordion-Project</a>
-- <a href="https://mhmtclk1705.github.io/Task-Tracker-Project/" target="_blank" >Task-Tracker-Project</a>
-- <a href="https://mehmetcelik-todo-app-project.netlify.app/" target="_blank" >Todo-App</a>
-- <a href="https://mehmetcelik-language-cards-project.netlify.app/" target="_blank" >Language-Cards-Project</a>
-- <a href="https://mehmetcelik-our-reviews-project.netlify.app/" target="_blank" >Our-Reviews-Project</a>
-- <a href="https://mehmetcelik-tours-project.netlify.app/" target="_blank" >Tours-Project</a>
-- <a href="https://mehmetcelik-birthday-reminder.netlify.app/" target="_blank" >Birthday-Reminder</a>
-- <a href="https://mhmtclk1705.github.io/Tour-Place-Project/" target="_blank" >Tour-Place-Project</a>
+- <a href="https://tuncayarican-firebase-contact.netlify.app/" target="_blank" >React-Firebase-Contact</a>
+- <a href="https://tuncayaricanreactmovieapp.netlify.app/" target="_blank" >React-Movie-App</a>
+- <a href="https://tuncayaricanrecipeapp.netlify.app/" target="_blank" >React-Recipe-App</a>
+- <a href="https://tuncayarican-react-to-do-list.netlify.app/" target="_blank" >React-To-Do-List</a>
+- <a href="https://tuncayarican-react-scss.netlify.app/" target="_blank" >Tour-Places-SCSS</a>
+- <a href="https://languagecardtuncayarican.netlify.app" target="_blank" >React-Basic-Language-Card</a>
+- <a href="https://tuncayarican.github.io/React_basic_project/" target="_blank" >React-Basic-Watch and Date</a>
 
 
 ## Without React
