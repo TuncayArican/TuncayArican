@@ -28,7 +28,7 @@
 ## :star2: My Projects: 
 ## With React
 
-- <a href="https://tuncayarican-firebase-contact.netlify.app/" target="_blank" >React-Firebase-Contact</a>
+
 - <a href="https://tuncayaricanreactmovieapp.netlify.app/" target="_blank" >React-Movie-App</a>
 - <a href="https://tuncayaricanrecipeapp.netlify.app/" target="_blank" >React-Recipe-App</a>
 - <a href="https://tuncayarican-react-to-do-list.netlify.app/" target="_blank" >React-To-Do-List</a>
@@ -37,38 +37,25 @@
 - <a href="https://tuncayarican.github.io/React_basic_project/" target="_blank" >React-Basic-Watch and Date</a>
 
 
-## Without React
- 
- - <a href="https://mhmtclk1705.github.io/Clarusway-School-Project/" target="_blank" >Clarusway-School-Project</a>
- - <a href="https://mhmtclk1705.github.io/Rest-Countries/" target="_blank" >Rest-Countries</a>
- - <a href="https://mhmtclk1705.github.io/Weather-App/" target="_blank" >Weather-App</a>
- - <a href="https://mhmtclk1705.github.io/StopWatch-Project/" target="_blank" >StopWatch-Project</a>
- - <a href="https://mhmtclk1705.github.io/Movie-Seat-App/" target="_blank" >Movie-Seat-App</a>                                                                         
- - <a href="https://mhmtclk1705.github.io/Digital-Clock/" target="_blank" >Digital-Clock</a>
- - <a href="https://mhmtclk1705.github.io/Team-Members-Page/" target="_blank" >Team-Members-Page</a> 
- - <a href="https://mhmtclk1705.github.io/Sass-Website/" target="_blank" >Sass-Website</a>
- - <a href="https://mhmtclk1705.github.io/Web-Design-Project/" target="_blank" >Web-Design-Project</a> 
- - <a href="https://mhmtclk1705.github.io/Checkout-Page-JS/" target="_blank" >Checkout-Page-JS</a> 
- - <a href="https://mhmtclk1705.github.io/Ios-Calculator/" target="_blank" >Ios-Calculator</a>
- - <a href="https://mhmtclk1705.github.io/To-Do-App/" target="_blank" >To-Do-App</a> 
- - <a href="https://mhmtclk1705.github.io/Lottery-Game/" target="_blank" >Lottery-Game</a>                                                                             
- - <a href="https://mhmtclk1705.github.io/Find-The-Number/" target="_blank" >Find-The-Number</a> 
- - <a href="https://mhmtclk1705.github.io/Score-Keeper-Project/" target="_blank" >Score-Keeper-Project</a>  
- - <a href="https://mhmtclk1705.github.io/Exact-Age-Project/" target="_blank" >Exact-Age-Project</a>
- - <a href="https://mhmtclk1705.github.io/Checkout-Form-Page/" target="_blank" >Checkout-Form-Page</a> 
- - <a href="https://mhmtclk1705.github.io/Parallax-Page/" target="_blank" >Parallax-Page</a> 
- - <a href="https://mhmtclk1705.github.io/Yahoo-Page/" target="_blank" >Yahoo-Page</a>
- - <a href="https://mhmtclk1705.github.io/Peerdeck-Page/" target="_blank" >Peerdeck-Page</a> 
- - <a href="https://mhmtclk1705.github.io/Kahoot-Page/" target="_blank" >Kahoot-Page</a>                                                                             
- - <a href="https://mhmtclk1705.github.io/Google-Landing-Page/" target="_blank" >Google-Landing-Page</a> 
- - <a href="https://mhmtclk1705.github.io/Survey-Form/" target="_blank" >Survey-Form</a>                                                                            
- - <a href="https://mhmtclk1705.github.io/Netflix-Form/" target="_blank" >Netflix-Form</a> 
+## With JavaScript
 
-## :fire: My Stats :
-                                                                        
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mhmtclk1705&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmtclk1705&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtclk1705&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+- <a href="https://tuncayarican.github.io/Find_the_Number_Game/" target="_blank" >Guess-The-Number-Game</a>
+- <a href="https://tuncayarican.github.io/IOS-Calculator/" target="_blank" >IOS-Calculator</a>
+- <a href="https://tuncayarican.github.io/Score_Keeper_JS_events/" target="_blank" >Score-Keeper</a>
+- <a href="https://tuncayarican.github.io/Digital_Clock/" target="_blank" >Digital-Clock</a>
+- <a href="https://tuncayarican.github.io/Weather-App/" target="_blank" >Weather-App</a>
+- <a href="https://tuncayarican.github.io/Stop_watch/" target="_blank" >Stop-Watch</a>
+- <a href="https://tuncayarican.github.io/Movie_seat_app/" target="_blank" >Movie-Seat-App</a>
+- <a href="https://tuncayarican.github.io/002-To-Do-List_App/" target="_blank" >To-Do-List</a>
+
+
+ 
+## With CSS/SCSS
+- <a href="https://tuncayarican.github.io/SASS_project/" target="_blank" >SASS-Project-Profile</a>
+- <a href="https://tuncayarican.github.io/Parallax_website/" target="_blank" >Parallax-Website</a>
+- <a href="https://tuncayarican.github.io/Clarusway_Survey_Form/" target="_blank" >Survey-Form</a>
+- <a href="https://tuncayarican.github.io/Job-Application-Form/" target="_blank" >Job-Application-Form</a>
+- <a href="https://tuncayarican.github.io/Netflix_Survey_Form/" target="_blank" >Netflix_Clone</a>
+- <a href="https://tuncayarican.github.io/Google-Landing-Page/" target="_blank" >Google-Landing-Page</a>
 
 
